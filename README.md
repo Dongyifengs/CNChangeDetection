@@ -1,8 +1,8 @@
-## Web Site Change Detection, Restock monitoring and notifications.
+## 网站变更检测、捕获监控和通知 - MoYi汉化自用 
 
-**_Detect website content changes and perform meaningful actions - trigger notifications via Discord, Email, Slack, Telegram, API calls and many more._**
+**_检测网站内容变化并执行有意义的操作，通过Discord、电子邮件、Slack、Telegram、API调用和更多方式触发通知。_**
 
-_Live your data-life pro-actively._ 
+_积极管理您的数据生活。_ 
 
 
 [<img src="https://raw.githubusercontent.com/dgtlmoon/changedetection.io/master/docs/screenshot.png" style="max-width:100%;" alt="Self-hosted web site page change monitoring"  title="Self-hosted web site page change monitoring"  />](https://changedetection.io?src=github)
